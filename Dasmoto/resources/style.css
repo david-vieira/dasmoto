@@ -1,0 +1,37 @@
+.Header h1{
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight:bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(./pictures/pattern.jpeg);
+}
+
+/* common properties for section titles*/
+h3{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+/* common property for pricing */
+#pricing{
+  color: blue;
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+/*Brushes code css*/
+.Brushes h3{
+  background-color: mediumspringgreen;
+}
+
+/*Frames code css */
+.Frames h3{
+  background-color: lightcoral;
+}
+
+/* Paint code css */
+.Paint h3{
+  background-color: skyblue;
+}
